@@ -1,4 +1,4 @@
-# Gomoku game demonstration.
+# Gomoku game demonstration
 
 ## Description
 
